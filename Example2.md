@@ -15,7 +15,7 @@
 ### Step 9: [Run CAP Application in SAP Business Application Studio](../mission/09-RunCAPApplicationInSAPBusinessApplicationStudio)
 ### Step 10: [Customize Seniority Rules to your own requirements](../mission/10-CustomizeSeniorityRulesToYourOwnRequirements)
 
- ## Table of Contents
+## Table of Contents
  <!-- disco-toc-start -->
 
 - Setup phase
