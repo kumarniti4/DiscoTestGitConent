@@ -16,7 +16,7 @@
   2. A Retailer who can then accept the Sales Orders created by the customer. The Retailer can also update the Product Stock information.
 
 
-  ## Table of Contents
+## Table of Contents
   <!-- toc -->
 
 - [Enterprise Sales and Procurement Model (ESPM) Cloud Native](#enterprise-sales-and-procurement-model-espm-cloud-native)
