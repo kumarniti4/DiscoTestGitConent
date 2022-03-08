@@ -22,7 +22,7 @@
   - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform) <!-- disco-label: [xyz,abc] -->
   - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/02-SetupSAPBTPAndSAPSuccessFactorsConnectivityAndExtensibility)
   - [Configure SAP Business Application Studio](../mission/03-ConfigureSAPBusinessApplicationStudio)
-  - [Configure abc](../mission/03-ConfigureSAPBusinessApplicationStudio)
+  - [Configure abc](../mission/03-ConfigureSAPBusinessApplication)
   - [Configure xyz](../mission/03-ConfigureSAPBusinessApplicationStudio)
 - Configure and deploy 
   - [Retry](#retry) 
