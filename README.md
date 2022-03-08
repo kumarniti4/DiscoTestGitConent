@@ -87,3 +87,18 @@ If you would like to contribute, please submit a pull request in the usual fashi
 
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+
+ <!-- disco-toc-start -->
+- Setup phase
+  - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform) <!-- disco-label: [xyz,abc] -->
+  - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/02-SetupSAPBTPAndSAPSuccessFactorsConnectivityAndExtensibility)
+  - [Configure SAP Business Application Studio](../mission/03-ConfigureSAPBusinessApplicationStudio)
+  - [Configure abc](../mission/03-ConfigureSAPBusinessApplicationStudio)
+- Configure and deploy 
+  - [Retry](#retry) 
+  - [Timeout](#timeout) 
+  - [Circuit Breaker](#circuit-breaker)
+  - [Bounded Queue](#bounded-queue)
+  - [Shed load](#shed-load)
+  - [Unit Isolation](#unit-isolation)
+<!-- disco-toc-end -->
