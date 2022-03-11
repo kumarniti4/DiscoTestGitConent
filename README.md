@@ -1,7 +1,7 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-- Setup phase
+
   - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform) <!-- [begin-disco-metadata] {"label":[{"labelName":"xyz"},{"labelName":"abc"}],"cardName":"Custom name"} [end-disco-metadata] -->
   - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/02-SetupSAPBTPAndSAPSuccessFactorsConnectivityAndExtensibility)
   - [Clone the GitHub repository and adapt the configuration to your environment](../mission/04-CloneTheGitHubRepositoryAndAdaptTheConfigurationToYourEnvironment)
