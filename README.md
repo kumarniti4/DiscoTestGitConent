@@ -1,9 +1,8 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-
 - Setup Phase
-  - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform) <!-- [begin-disco-metadata] {"label":[{"labelName":"xyz"},{"labelName":"abc"}],"cardName":"Custom name"} [end-disco-metadata] -->
+  - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform) <!-- dc-card: {"col":"Setup Phase", "label":["xyz","abc"],"cardName":"Custom name"} dc-card -->
   - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/02-SetupSAPBTPAndSAPSuccessFactorsConnectivityAndExtensibility)
   - [Clone the GitHub repository and adapt the configuration to your environment](../mission/04-CloneTheGitHubRepositoryAndAdaptTheConfigurationToYourEnvironment)
   - [Deploy CAP Application to Cloud Foundry and HANA Cloud](../mission/05-DeployCAPApplicationToCloudFoundryAndHANACloud)
