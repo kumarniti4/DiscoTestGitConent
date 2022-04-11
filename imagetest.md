@@ -1,8 +1,8 @@
 This is test image
 
-![gitImage](/gitLOGO.PNG)
+![gitImage](/gitLOGO.png)
 
 
 =====
 
-<img src="gitLOGO.PNG">
+<img src="/gitLOGO.png">
