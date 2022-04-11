@@ -1,1 +1,3 @@
-![establish trust](/gitLOGO.PNG)"
+This is test image
+
+![gitImage](/gitLOGO.PNG)
