@@ -2,7 +2,7 @@
 
 <!-- disco-toc-start -->
 - Setup Phase
-  - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform)
+  - [Setup SAP BTP](../mission/01-SetupSAPBusinessTechnologyPlatform)
   - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/02-SetupSAPBTPAndSAPSuccessFactorsConnectivityAndExtensibility)
   - [Clone the GitHub repository and adapt the configuration to your environment](../mission/04-CloneTheGitHubRepositoryAndAdaptTheConfigurationToYourEnvironment)
   - [Deploy CAP Application to Cloud Foundry and HANA Cloud](../mission/05-DeployCAPApplicationToCloudFoundryAndHANACloud)
