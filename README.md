@@ -17,7 +17,7 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-- Configure and deploy 
-  - [Configure Events on SAP SuccessFactors](../mission/06-ConfigureEventsOnSAPSuccessFactors)
+- D Phase 
+  - [Welcome and Target Group for this mission](D/01-Welcome)
   - [SAP Process Automation Basics](D/02-SPA_Basics)
 <!-- disco-toc-end -->
