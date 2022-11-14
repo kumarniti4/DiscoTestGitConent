@@ -1,4 +1,4 @@
-# test
+# Image tag rendering test
 
 Test img tag without '/' in same folder path:
 
