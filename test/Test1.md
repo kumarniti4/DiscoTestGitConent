@@ -22,4 +22,4 @@ Test img tag enclosed within [] (a href tag)
 
 Test alt tag ![] enclosed within [] (a href tag)
 
-![img/SystemAccount.png](img/SystemAccount.png)
+![img/SystemAccount.png](/test/img/SystemAccount.png)
