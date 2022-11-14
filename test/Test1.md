@@ -8,6 +8,10 @@ Test img tag with '/' relative path
 
 <img src="/test/img/SystemAccount.png" width="500px" height="400px">
 
+Test img tag with './' relative path
+
+<img src="./img/SystemAccount.png" width="500px" height="400px">
+
 Test img tag with '../' relative path
 
 <img src="../test/img/SystemAccount.png" width="500px" height="400px">
