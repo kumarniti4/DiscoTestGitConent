@@ -1,16 +1,16 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-- Setup Phase
-  - [Setup SAP Business Technology Platform](../mission/01-SetupSAPBusinessTechnologyPlatform)
-  - [Setup SAP BTP and SAP SuccessFactors connectivity and extensibility](../mission/01-SetupSAPBusinessTechnologyPlatform)<!-- dc-card: {"label":  ["xyz","abc"],"cardName":"Custom name","boosterId":"cos"} dc-card -->
-  - [Clone the GitHub repository and adapt the configuration to your environment](../mission/04-CloneTheGitHubRepositoryAndAdaptTheConfigurationToYourEnvironment)
-  - [Deploy CAP Application to Cloud Foundry and HANA Cloud](../mission/05-DeployCAPApplicationToCloudFoundryAndHANACloud)
-- Configure and deploy 
-  - [Configure Events on SAP SuccessFactors](../mission/06-ConfigureEventsOnSAPSuccessFactors)
-  - [Configure custom seniority fields in SAP SuccessFactors](../mission/07-ConfigureCustomSeniorityFieldsInSAPSuccessFactors)
-  - [Test End to End from SAP SuccessFactors to CAP Application](../mission/08-TestEndToEndFromSAPSuccessFactorsToCAPApplication)
-  - [Run CAP Application in SAP Business Application Studio](../mission/09-RunCAPApplicationInSAPBusinessApplicationStudio)
-  - [Customize Seniority Rules to your own requirements](../mission/10-CustomizeSeniorityRulesToYourOwnRequirements)
+- World cup Group 1
+  - [Germany](../worldcup/Germany)
+  - [United States Of America](../worldcup/Usa)<!-- dc-card: {"label":  ["xyz","abc"],"cardName":"USA","boosterId":"cos"} dc-card -->
+  - [Portugal](../worldcup/Portugal)
+  - [Ghana](../worldcup/Ghana)
+- World cup Group 2
+  - [France](../worldcup/France)
+  - [Argentina](../worldcup/Argentina)
+  - [Switzerland](../worldcup/Switzerland)
+  - [Denmark](../worldcup/Denmark)
+  - [Brazil](../worldcup/Brazil)
  
 <!-- disco-toc-end -->
