@@ -7,7 +7,7 @@
         "shortDescription": "Short Description Edited",
         "archDiagramLink": "https://discovery-center.cloud.sap/documents/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=kdkTmUwmTIai4cWh5qfr4EZAvSqLCqY7u5vN6mgZkNk",
         "tags": "SAP, BTP, CAP",
-        "detailPageLink": "https://github.com/AvikChakraborty18/testGitContent/blob/mission/10-CustomizeSeniorityRulesToYourOwnRequirements/README.md"
+        "detailPageLink": "https://camo.githubusercontent.com/cb32b83545690959cd07068787d4dca1169474e83d9748358dbf341105e9a571/68747470733a2f2f70726f78796272696467657364636b3561346136316431623661306663312e7573322e68616e612e6f6e64656d616e642e636f6d2f70726f78796272696467652d7364632d6b35613461362d312e302e302f726561646f6e6c792f636d69732f6a736f6e2f6463633633393464643662386265643265636136343161352f726f6f743f6f626a65637449643d6b444441426e49697037476d5f7a54686e395f7a4237617066737972455530304b7764655366625f43436f"
     }
 dc-ref-arch-metadata  -->
 
