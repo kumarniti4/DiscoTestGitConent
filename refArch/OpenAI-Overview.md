@@ -15,6 +15,7 @@ dc-ref-arch-metadata  -->
 You want to make use of one of the Large Language Models (LLMs) like the GPT family of LLMs offered by Microsoft Azure OpenAI in combination with an application running on SAP Business Technology Platform (BTP), here is our recommendation how to achieve this and also benefit from the BTP capabilities.
 <!-- dc-ref-arch-long-description-end -->
 
+
 ## Potential Use Cases
 
 Why would you want to do this? The list of potential use cases for LLMs is endless, here just a few examples:
