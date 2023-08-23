@@ -1,6 +1,7 @@
 # Local and hybrid development
 
-- **Kyma** ✅
+### kyma
+- ### Kyma ✅
 - **Cloud Foundry** ✅
 
 In this part of the **Expert Features** you will learn how to use the local and hybrid development features of CAP. This will simplify the development process and let's you implement new features in a local environment with and without multitenancy enable. 
