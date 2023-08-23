@@ -20,6 +20,6 @@
 
 [link](https://www.valcre.in/wp-content/uploads/2022/06/sap-erp-modules.jpg)
 
-**5.  Test link with multiple links**
+**5.  Test link with multiple type links in one line**
 
 To test the ESPM application, [Postman REST Client](https://www.getpostman.com/apps) can be used. A Postman collection which is provided [here](../test/img/SystemAccount.png) has all the request URLs and sample request body payloads (in case of a POST request).
