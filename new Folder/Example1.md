@@ -1,5 +1,10 @@
 # Local and hybrid development
 
+
+```yaml
+cds watch srv --profile local-with-mtx
+```
+
 ### kyma
 - ### Kyma ✅
 - **Cloud Foundry** ✅
@@ -51,7 +56,7 @@ With SAP Cloud Application Programming Model's (CAP) latest MTX package release 
 
 Run the command below in your project root directory to start the backend application locally. This will start the application including multitenancy support on your local device. An initial **t0** tenant is initialized which contains technical data managed by CAP. The t0 tenant is not a real SaaS application tenant. 
 
-```sh
+```yamls
 cds watch srv --profile local-with-mtx
 ```
 
