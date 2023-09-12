@@ -33,7 +33,6 @@ author_profile: https://github.com/mervey45
       - The latest Eclipse packages are bundled with [`Eclipse Temurin`](https://adoptium.net/), an `OpenJDK` binary distribution provided by the [`Eclipse Adoptium`](https://projects.eclipse.org/projects/adoptium) project. Any other JRE found on the system is not used. If you want to remove the bundled JRE and use a custom one, see SAP note [3035242](https://launchpad.support.sap.com/#/notes/3035242).
     >**Hint:** No manual installation of an JRE / JDK is required, since it's already bundled with the latest Eclipse packages which are downloadable as a ready-to-run zip-file. 
 
->>>>>>> 59f95048a11e62962d5c8eb49e89b6f027533a25
 
 ---
 
