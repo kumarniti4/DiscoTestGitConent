@@ -26,7 +26,7 @@ author_profile: https://github.com/mervey45
 - Java Runtime:
       - ADT is validated and tested against OpenJDK and SapMachine JVMs (OpenJDK / [SapMachine](https://sap.github.io/SapMachine/)).
       - Recent Eclipse packages already include an  AdoptOpenJDK. Any other JRE found on the system is not used. If this is not desired, see note [3035242](https://launchpad.support.sap.com/#/notes/3035242) on how to remove the bundled JRE and use a custom one.
-=======
+
     >**Hint:** Precisely version Visual Studio 2013 (VC++ 12.0) x64 for communication with the back-end system is required.
 -	Java Runtime:
       -	ADT is validated and tested against Java versions 11 and 17 (Oracle Java and `OpenJDK`).
