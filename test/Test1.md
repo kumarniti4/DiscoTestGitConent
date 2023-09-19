@@ -24,5 +24,3 @@
 
 [<img src="img/SystemAccount.png" width="600" />](img/SystemAccount.png)
 
-**6.  Test alt tag ![] enclosed within [] (a href tag)**
-![img/SystemAccount.png](img/SystemAccount.png)
