@@ -23,3 +23,6 @@
 **6.  Test img tag enclosed within [] (a href tag) - On clicking image, the image in github should open**
 
 [<img src="img/SystemAccount.png" width="600" />](img/SystemAccount.png)
+
+**6.  Test alt tag ![] enclosed within [] (a href tag)**
+![img/SystemAccount.png](img/SystemAccount.png)
